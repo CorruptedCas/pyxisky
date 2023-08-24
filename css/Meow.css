@@ -1,0 +1,17 @@
+:root{
+    background-image:url("https://cdn.upload.systems/uploads/QPo3UDHL.gif");
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    font-size:40px !important;
+  }
+  
+  .content h2 {
+    text-align: center;
+    font-family: "Fredoka One", sans-serif;
+    font-size: 100px;
+    color: #003b90;
+    text-shadow: -1px 1px 4px #2c7cec, 1px -1px 4px  #3f6b94, -1px 1px 4px  #2c7cec, -1px -1px 4px  #3f6b94;
+    height: inherit;
+    width: inherit;
+  }
+  
