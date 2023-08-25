@@ -1,7 +1,7 @@
 :root{
     background-image:url("https://cdn.upload.systems/uploads/QPo3UDHL.gif");
     background-size: cover !important;
-    background-attachment: !important;
+    background-attachment: fixed !important;
     font-size:40px !important;
   }
   
